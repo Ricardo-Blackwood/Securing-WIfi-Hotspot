@@ -1,5 +1,5 @@
 # Securing-Wifi-Hotspot
-In this lab I used Linksys by cisco to secure a cisco router
+In this lab I used Linksys by cisco to secure a cisco router,
 To do this first you must click the "wireless" tab
 
 ![wifi](https://github.com/user-attachments/assets/2de2cf57-40b0-485a-a4d4-9e26a0fa740a)
