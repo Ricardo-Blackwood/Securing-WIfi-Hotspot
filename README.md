@@ -1,4 +1,4 @@
-# Securing-WIfi-Hotspot
+# Securing-Wifi-Hotspot
 In this lab I used Linksys by cisco to secure a cisco router
 To do this first you must click the "wireless" tab
 
